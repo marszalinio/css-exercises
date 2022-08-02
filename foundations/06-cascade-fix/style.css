@@ -1,6 +1,10 @@
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+
 .para,
 .small-para {
-  color: hsl(0, 100%, 50%);
+  color: hsl(0, 0%, 0%);
 }
 
 .para {
@@ -26,8 +30,18 @@
   font-size: 20px;
 }
 
+<<<<<<< HEAD
 .text {
   color: green;
+=======
+.child {
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+>>>>>>> 4c2d4a06781b52c935cff630f99d7a93662af9e8
   font-size: 22px;
 }
 
